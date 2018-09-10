@@ -1,0 +1,16 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=64492:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\bwyli\IdeaProjects\Homeworks Assignment 2 - Poem Output\out\production\Homeworks Assignment 2 - Poem Output" com.company.Main
+l(a
+
+le
+af
+fa
+
+ll
+
+s)
+one
+l
+
+iness
+
+Process finished with exit code 0
